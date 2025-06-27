@@ -6,7 +6,7 @@ The data are stored as txt files.
 
 If you use these realtionships, please cite this work:
 
-"Discovering the underlying analytical structure within Standard Model  constants using artificial intelligence"
+"Discovering the underlying analytic structure within Standard Model  constants using artificial intelligence"
 S. V. ~Chekanov nad H.Kjellerstrand, HEP-ANL-197373, June 26, 2025. aXiv (link will be provided)
 
 # Instruction

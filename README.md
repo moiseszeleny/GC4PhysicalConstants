@@ -1,6 +1,6 @@
 # GC4PhysicalConstants
 
-<--
+<!--
 Genetic computing for physical constants.
 
 This repository contains analytic snippets created from generic computation  for future AI processing to identify patterns and relationships between fundamental constants.

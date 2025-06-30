@@ -27,7 +27,7 @@ jsonfilename = "standard_model_snippets.json.gz"
 with gzip.open(jsonfilename, 'r') as fin:
     data = json.loads(fin.read().decode('utf-8'))
 ```
-Here, data is a dictionary where the keys range from 6 to 70, representing analytic ranks. Each value associated with a key is a list structured as follows:
+Here, ```data``` is a dictionary where the keys range from 6 to 70, representing analytic ranks. Each value associated with a key is a list structured as follows:
 
 ```
 [equation,error,predicted,target]

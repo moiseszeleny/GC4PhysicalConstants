@@ -22,6 +22,13 @@ with gzip.open(jsonfilename, 'r') as fin:
     data = json.loads(fin.read().decode('utf-8'))
 ```
 
+Here "data" is a dictionary with the key=6 ... 70 representing analytic ranks. The dictionary values for a given key are lists which are orginized like this:
+
+```
+[equation,error,predicted,target]
+```
+where "equation" is a symbolic equation, "error" is uncertainty (expressed in  percent), "predicted" is the predicted value and "target" is the target value. 
+
 
 
 S. V. ~Chekanov nad H.Kjellerstrand

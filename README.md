@@ -1,6 +1,6 @@
 # GC4PhysicalConstants
 
-**Genetic Computing for Physical Constants**
+**Genetic Computing for Physical Constants using AI**
 
 This repository contains analytic snippets generated through generic computation for future AI-based analysis. The goal of this data is to identify patterns and relationships between fundamental physical constants. These data surve as the inputs for several AI techniques to be deployed for the analysis of the topological structure that may reflect the underlying connections in high-dimensional functional space.
 

@@ -2,7 +2,7 @@
 
 **Genetic Computing for Physical Constants**
 
-This repository contains analytic snippets generated through generic computation for future AI-based analysis. The goal is to identify patterns and relationships between fundamental physical constants. The data are stored in the `json` file format. "They are the inputs for several AI techniques to be deployed for the analysis of the topological structure that may reflect the underlying connections in high-dimensional functional space.
+This repository contains analytic snippets generated through generic computation for future AI-based analysis. The goal of this data is to identify patterns and relationships between fundamental physical constants. They data surve as the inputs for several AI techniques to be deployed for the analysis of the topological structure that may reflect the underlying connections in high-dimensional functional space.
 
 > Note: The file will be public only after the paper will be visible in the public domain.
 

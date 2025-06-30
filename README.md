@@ -37,5 +37,12 @@ where "equation" is the symbolic equation (using the notation close to LaTeX), "
 
 The data listing does not have precision constraints applied. This means  |predicted - target| difference is always within the measured uncertainty of the target value as defined by the Standard Model. The limitation of  1% relative precision as in the in the original publication was not used.
 
+## Note
+
+We are constantly improving this set of analytic snippets as more CPU power becomes available. Therefore, the number of snippets above the rank may be larger than what was presented in the listings of the original paper. The differences mainly affect the least precise constants of the Standard Model.
+
+
+---
+
 S. V. Chekanov and H.Kjellerstrand (June 26, 2025)
 

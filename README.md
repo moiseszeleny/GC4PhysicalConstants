@@ -35,9 +35,10 @@ Here "data" is a dictionary with the key=6 ... 70 representing analytic ranks. T
 ```
 [equation,error,predicted,target]
 ```
-where "equation" is a symbolic equation, "error" is uncertainty (expressed in  percent), "predicted" is the predicted value and "target" is the target value. 
-All duplicate entries have been removed. There are no precision constraints applied, i.e., |predicted - target| is always within the uncertainty of the target value as defined by the Standard Model.
+where "equation" is the symbolic equation (using the notation close to LaTeX), "error" is the obtained uncertainty (expressed as a percentage), "predicted" is the predicted value, and 
+"target" is the actual value of the constant.  All duplicate entries have been removed. There are no precision constraints applied, i.e., |predicted - target| is always within the uncertainty of the target value as defined by the Standard Model.
 
 
 S. V. Chekanov nad H.Kjellerstrand
+June 2025
 

@@ -2,7 +2,7 @@
 
 **Genetic Computing for Physical Constants**
 
-This repository contains analytic snippets generated through generic computation for future AI-based analysis. The goal of this data is to identify patterns and relationships between fundamental physical constants. They data surve as the inputs for several AI techniques to be deployed for the analysis of the topological structure that may reflect the underlying connections in high-dimensional functional space.
+This repository contains analytic snippets generated through generic computation for future AI-based analysis. The goal of this data is to identify patterns and relationships between fundamental physical constants. These data surve as the inputs for several AI techniques to be deployed for the analysis of the topological structure that may reflect the underlying connections in high-dimensional functional space.
 
 > Note: The file will be public only after the paper will be visible in the public domain.
 
@@ -35,6 +35,7 @@ Here, ```data``` is a dictionary where the keys range from 6 to 70, representing
 where "equation" is the symbolic equation (using the notation close to LaTeX), "error" is the obtained uncertainty (expressed as a percentage), "predicted" is the predicted value, and 
 "target" is the actual value of the constant.  All duplicate entries have been removed. There are no precision constraints applied as in the original publication, i.e., |predicted - target| is always within the uncertainty of the target value as defined by the Standard Model.
 
-S. V. Chekanov and H.Kjellerstrand, 
-June 2025
+- S. V. Chekanov and H.Kjellerstrand -
+  
+June 26, 2025
 

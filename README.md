@@ -28,16 +28,13 @@ jsonfilename = "standard_model_snippets.json.gz"
 with gzip.open(jsonfilename, 'r') as fin:
     data = json.loads(fin.read().decode('utf-8'))
 ```
-
-
-Here "data" is a dictionary with the key=6 ... 70 representing analytic ranks. The dictionary values for a given key are lists which are orginized like this:
+Here, data is a dictionary where the keys range from 6 to 70, representing analytic ranks. Each value associated with a key is a list structured as follows:
 
 ```
 [equation,error,predicted,target]
 ```
 where "equation" is the symbolic equation (using the notation close to LaTeX), "error" is the obtained uncertainty (expressed as a percentage), "predicted" is the predicted value, and 
-"target" is the actual value of the constant.  All duplicate entries have been removed. There are no precision constraints applied, i.e., |predicted - target| is always within the uncertainty of the target value as defined by the Standard Model.
-
+"target" is the actual value of the constant.  All duplicate entries have been removed. There are no precision constraints applied as in the original publication, i.e., |predicted - target| is always within the uncertainty of the target value as defined by the Standard Model.
 
 S. V. Chekanov nad H.Kjellerstrand
 June 2025

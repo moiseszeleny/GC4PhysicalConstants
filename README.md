@@ -39,7 +39,7 @@ The data listing does not have precision constraints applied. This means  |predi
 
 ## Note
 
-We are constantly improving this set of analytic snippets as more CPU power becomes available. Therefore, the number of snippets above the rank may be larger than what was presented in the listings of the original paper. The differences mainly affect the least precise constants of the Standard Model.
+We are constantly improving this set of analytic snippets as more CPU power becomes available. Therefore, the number of snippets above the rank 15 may be larger than what was presented in the listings of the original paper. The differences mainly affect the least precise constants of the Standard Model.
 
 
 ---

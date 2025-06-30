@@ -10,7 +10,7 @@ This repository contains analytic snippets generated through generic computation
 If you use these data with analytic functions, please cite the following work:
 
 > **"Discovering the Underlying Analytic Structure within Standard Model Constants Using Artificial Intelligence"**  
-> S. V. Chekanov and H. Kjellerstrand, HEP-ANL-197373, June 26, 2025.  
+> S. V. Chekanov and H. Kjellerstrand, HEP-ANL-197373, June 26, (2025).  
 > *arXiv* (link will be provided)
 
 ---

@@ -33,7 +33,9 @@ Here, ```data``` is a dictionary where the keys range from 6 to 70, representing
 [equation,error,predicted,target]
 ```
 where "equation" is the symbolic equation (using the notation close to LaTeX), "error" is the obtained uncertainty (expressed as a percentage), "predicted" is the predicted value, and 
-"target" is the actual value of the constant.  There are more than 70,000 analytic snippets. All duplicate entries have been removed. There are no precision constraints applied as in the original publication, i.e., |predicted - target| is always within the uncertainty of the target value as defined by the Standard Model.
+"target" is the actual value of the constant.  There are more than 70,000 analytic snippets. All duplicate entries have been removed. 
+
+The data entried do not have precision constraints applied. This means  |predicted - target| difference is always within the uncertainty of the target value as defined by the Standard Model. The limitation of  1% relative precision as in the in the original publication was not used.
 
 S. V. Chekanov and H.Kjellerstrand (June 26, 2025)
 

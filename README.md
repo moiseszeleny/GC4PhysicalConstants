@@ -4,9 +4,6 @@
 
 This repository contains analytic snippets generated through generic computation for future AI-based analysis. The goal of this data is to identify patterns and relationships between fundamental physical constants. These data surve as the inputs for several AI techniques to be deployed for the analysis of the topological structure that may reflect the underlying connections in high-dimensional functional space.
 
-> Note: The file will be public only after the paper will be visible in the public domain.
-
-
 If you use these data with analytic functions, please cite the following work:
 
 > **"Discovering the Underlying Analytic Structure within Standard Model Constants Using Artificial Intelligence"**  

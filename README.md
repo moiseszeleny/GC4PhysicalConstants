@@ -11,7 +11,7 @@ If you use these data with analytic functions, please cite the following work:
 > [arXiv:2507.00225](https://arxiv.org/abs/2507.00225) (Submitted to a journal)
 
 Bibtex entry:
-```
+```bibtex
 @article{Chekanov:2025wzw,
     author = "Chekanov, S. V. and Kjellerstrand, H.",
     title = "{Discovering the underlying analytic structure within Standard Model constants using artificial intelligence}",
@@ -28,7 +28,7 @@ Bibtex entry:
 
 ## How to Use the Files in This Repository
 
-All analytic expressions up to rank 70 are organized in a dictionary and stored in a compressed JSON file. Here's an example of how to read such files:
+All analytic expressions up to rank 70 are organized in a dictionary and stored in a compressed JSON file. Here's a Python example of how to read such files:
 
 ```python
 import gzip

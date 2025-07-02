@@ -11,7 +11,21 @@ If you use these data with analytic functions, please cite the following work:
 
 > **"Discovering the Underlying Analytic Structure within Standard Model Constants Using Artificial Intelligence"**  
 > S. V. Chekanov and H. Kjellerstrand, HEP-ANL-197373, June 26, (2025).  
-> *arXiv* (link will be provided) 
+> [arXiv:2507.00225](https://arxiv.org/abs/2507.00225) (Submitted to a journal)
+
+Bibtex entry:
+```
+@article{Chekanov:2025wzw,
+    author = "Chekanov, S. V. and Kjellerstrand, H.",
+    title = "{Discovering the underlying analytic structure within Standard Model constants using artificial intelligence}",
+    eprint = "2507.00225",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "HEP-ANL-197373, June 26, 2025",
+    month = "6",
+    year = "2025"
+}
+```
 
 ---
 
@@ -33,7 +47,7 @@ Here, ```data``` is a dictionary where the keys range from 6 to 70, representing
 [equation,error,predicted,target]
 ```
 where "equation" is the symbolic equation (using the notation close to LaTeX), "error" is the obtained uncertainty (expressed as a percentage to the target value), "predicted" is the predicted value, and 
-"target" is the actual value of the constant.  There are more than 70,000 analytic snippets. All duplicate entries have been removed. 
+"target" is the actual value of the constant.  There are more than 83,000 analytic snippets. All duplicate entries have been removed. 
 
 The data listing does not have precision constraints applied. This means  |predicted - target| difference is always within the measured uncertainty of the target value as defined by the Standard Model. The limitation of  1% relative precision as in the in the original publication was not used.
 
